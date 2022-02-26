@@ -1,0 +1,6 @@
+# develop
+dist/
+# release
+release/
+
+.DS_Store
